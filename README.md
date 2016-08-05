@@ -1,2 +1,2 @@
 # BIEMS_python
-Let's get strated!!!!
+Let's get started!!!!
